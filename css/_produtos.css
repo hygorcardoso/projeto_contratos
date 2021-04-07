@@ -1,0 +1,27 @@
+th#codigo {
+    padding: 5px 15px 0px 0px;
+}
+
+th#descricao {
+    padding: 5px 31em 0px 0px;
+}
+
+th#preco {
+    padding: 5px 30px 0px 0px;
+}
+
+th#total {
+    padding: 5px 35px 0px 0px;
+}
+
+th#quantidade {
+    padding: 5px 35px 0px 0px;
+}
+
+th#cancelado {
+    padding: 5px 35px 0px 0px;
+}
+
+th#cancelar {
+    padding: 5px 35px 0px 0px;
+}
